@@ -1,0 +1,88 @@
+<!-- Project Name: HW11
+Author: Emilie Blecker
+Date Last Modified: 4/3/2019-->
+
+1.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Q1</title>
+  <meta charset="utf-8">
+</head>
+<link rel = "stylesheet" href = "test.css" />
+<body> 
+    <p style = "background-color: green; color: white";>         
+        Write the HTML for a paragraph that uses inline styles to configure the background color of green and the text color of white.
+    </p>
+
+</body>
+</html>
+
+2.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Q2</title>
+  <meta charset="utf-8">
+  </head>
+<link rel = "stylesheet" href = "test.css" />
+<body> 
+    <p>         
+        Write the HTML and CSS code for an embedded style sheet that configures a background color of #EAEAEA and a text color of #000033. 
+    </p>
+
+</body>
+</head>
+</html>
+
+2.css
+
+body 
+{
+    background-color: #EAEAEA;
+    color: #000033;
+}
+
+
+3. Write the CSS code for an external style sheet that configures the text to be brown,
+ 1.2em in size, and in Arial, Verdana, or a sans-serif font.
+
+body
+{
+    color: brown;
+    font-family: "Arial";
+    font-size: 1.2em;
+}
+
+
+4.css
+
+#new
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+4. html
+
+<!DOCTYPE html>
+<html lang="en">
+<div id = "new">
+<head>
+  <title>Q4</title>
+  <meta charset="utf-8">
+</head>
+<link rel = "stylesheet" href = "test.css" />
+<body> 
+    <p>         
+       Write the HTML and CSS code for an embedded style sheet that configures a class called new that is bold and italic. 
+    </p>
+
+</body>
+</div>
+</html>
+
+
+
