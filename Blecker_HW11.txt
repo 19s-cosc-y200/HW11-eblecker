@@ -19,6 +19,8 @@ Date Last Modified: 4/3/2019-->
 </body>
 </html>
 
+should be in hex
+
 2.html
 
 <!DOCTYPE html>
@@ -44,6 +46,7 @@ body
     background-color: #EAEAEA;
     color: #000033;
 }
+embedded, not external...
 
 
 3. Write the CSS code for an external style sheet that configures the text to be brown,
@@ -55,9 +58,13 @@ body
     font-family: "Arial";
     font-size: 1.2em;
 }
-
+should be in hex
+missing font list
 
 4.css
+
+embedded, not external
+class, not id!!
 
 #new
 {
